@@ -1,0 +1,149 @@
+
+
+
+body {
+    margin: 0;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: chartreuse;
+    text-align: center;
+}
+
+#welcome {
+
+    border: whitesmoke;
+    font-family: monospace;
+    margin-top: 800px;
+    margin-bottom: 1000px;
+    position: absolute;
+    height: 800px;
+    color: #000000;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.83;
+    background: linear-gradient( rgb(96, 153, 39) 0%, #9ec98a 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 10
+    
+}
+
+#videos {
+
+    border: black;
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 1300px;
+    margin-bottom: 1300px;
+    position: absolute;
+    
+    color: #000000;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.83;
+    background: linear-gradient( chartreuse 0%, #51ff00 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9
+    
+}
+
+h3 {
+
+font-family: cursive;
+color: blueviolet;
+
+}
+
+#contact {
+
+    border: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 1500px;
+    position: absolute;
+    height: 700px;
+    color: #000000;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.83;
+    background: linear-gradient( rgb(68, 0, 255, 0%), #ff0000 100%);
+    display: table;
+    width: 100%;
+    height: 90%;
+    z-index: 9
+    
+}
+
+#gallery
+{
+
+    border: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 1900px;
+    position: absolute;
+    height: 800px;
+    color: #000000;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.83;
+    background: linear-gradient( blue, #ff0000 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9
+    
+}
+
+h1 {
+
+    color: white;
+    background-color: blue;
+    font-family: fantasy;
+
+}
+
+h2 {
+
+background-color: lightblue;
+color: red;
+
+}
+
+
+p {
+
+background-color: seashell;
+color: slateblue;
+
+}
+
+.parallax-inner {
+
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+#lol {
+
+size: 10cm;
+
+
+}
+
